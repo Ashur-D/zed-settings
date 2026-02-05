@@ -64,7 +64,7 @@
     "button": false
   },
   "search": {
-    "button": true
+    "button": false
   },
   "diagnostics": {
     "button": false
