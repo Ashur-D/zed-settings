@@ -96,6 +96,5 @@
     "diagnostics": false,
     "metrics": false
   },
-  "ui_font_size": 16,
   "theme": "Horizon Extended"
 }
